@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/packagist/dt/blade-organization/blade-heroicons" alt="Total Downloads">
 </a>
 
-> This is a template repository for new icon packages. Start a new repo with this and replace the relevant things below:
+> This is a template repository for new icon packages for [Blade Icons](https://github.com/blade-ui-kit/blade-icons). Start a new repo with this and replace the relevant things below:
 > 
 > 1. `blade-organization` with your GitHub organization
 > 2. `blade-heroicons` with your repository name
