@@ -1,10 +1,7 @@
 # Blade Heroicons
 
 <a href="https://github.com/blade-organization/blade-heroicons/actions?query=workflow%3ATests">
-    <img src="https://github.com/blade-organization/blade-heroicons/workflows/Tests/badge.svg" alt="Tests">
-</a>
-<a href="https://github.styleci.io/repos/258753939">
-    <img src="https://github.styleci.io/repos/258753939/shield?style=flat" alt="Code Style">
+    <img src="https://github.com/blade-ui-kit/blade-heroicons/workflows/Tests/badge.svg" alt="Tests">
 </a>
 <a href="https://packagist.org/packages/blade-organization/blade-heroicons">
     <img src="https://img.shields.io/packagist/v/blade-organization/blade-heroicons" alt="Latest Stable Version">
