@@ -1,4 +1,4 @@
-# Blade Heroicons
+# Blade Template
 
 <a href="https://github.com/blade-organization/blade-heroicons/actions?query=workflow%3ATests">
     <img src="https://github.com/blade-ui-kit/blade-heroicons/workflows/Tests/badge.svg" alt="Tests">
@@ -14,7 +14,7 @@
 > 
 > 1. `blade-organization` with your GitHub organization
 > 2. `blade-heroicons` with your repository name
-> 3. `Blade Heroicons` with your icon set name
+> 3. `Blade Heroicons` & `Blade Template` with your icon set name
 > 4. Any other reference to `Heroicons` with your icon set name
 > 5. `Blade Developer` with your name
 > 
