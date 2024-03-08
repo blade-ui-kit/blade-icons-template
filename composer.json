@@ -11,11 +11,11 @@
     ],
     "require": {
         "php": "~8.2.0|~8.3.0",
-        "blade-ui-kit/blade-icons": "^1.4",
-        "illuminate/support": "^10.0"
+        "blade-ui-kit/blade-icons": "^1.6",
+        "illuminate/support": "^11.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^8.0",
+        "orchestra/testbench": "^9.0",
         "phpunit/phpunit": "^9.0"
     },
     "autoload": {
